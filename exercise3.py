@@ -1,3 +1,6 @@
+#what is the Maximum and Minimum between four numbers
+#get the result of their average 
+#get the result of their varians
 import math
 
 a=float(input("enter your number:"))
